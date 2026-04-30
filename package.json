@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "express": "^5.2.1",
-    "start": "node server.js"
+    "started": "node.js"
   },
   "name": "dht11",
   "version": "1.0.0",
